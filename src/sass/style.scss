@@ -1,0 +1,24 @@
+*   {
+    font-family: 'Roboto', sans-serif
+}
+
+@import 'variables';
+@import 'blocks/promo';
+@import 'blocks/header';
+@import 'blocks/buttons';
+@import 'blocks/titles';
+@import 'blocks/benifits';
+@import 'blocks/consultation';
+@import 'blocks/forms';
+@import 'blocks/carousel';
+@import 'blocks/catalog';
+@import 'blocks/reviews';
+@import 'blocks/footer';
+@import 'blocks/modal';
+@import 'blocks/pageup';
+@import 'blocks/animation';
+
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
